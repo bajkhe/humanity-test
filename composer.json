@@ -1,0 +1,15 @@
+{
+    "name": "bajke/app-test",
+    "authors": [
+        {
+            "name": "bajke",
+            "email": "aleksandar.bajkin@cloudhorizon.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    }
+}
